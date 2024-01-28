@@ -1,10 +1,10 @@
 window.settings = {
   // 站点标题
-  title: 'V2Board',
+  title: '汉堡云',
   // 站点描述
-  description: 'V2Board is best',
+  description: '汉堡云VPN备用站',
   // API
-  host: 'https://hibiku.me',
+  host: 'https://221.naizi.mobi',
   // 主题
   theme: {
     sidebar: 'light',
